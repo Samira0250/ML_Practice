@@ -42,7 +42,7 @@ Case                    13       20
 
 ---
 
-## 📈 Figures  
+## Figures  
 - **ROC Curve** → shows AUC ≈ 0.63 (not perfect, but better than random).  
 - **Feature Importance Plot** → highlights the most informative features (mostly from the “true signal” set).  
 
