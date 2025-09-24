@@ -1,0 +1,5 @@
+"","Predicted","Actual","Freq"
+"1","Control","Control",30
+"2","Case","Control",0
+"3","Control","Case",0
+"4","Case","Case",30
