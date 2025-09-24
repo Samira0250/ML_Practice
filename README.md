@@ -67,8 +67,4 @@ Case                    13       20
 Clone the repo and run the pipeline in R or Python (depending on your setup).  
 *(Note: This is a practice project; code may not be fully optimized.)*  
 
-```bash
-git clone https://github.com/your-username/ml-pipeline-practice.git
-cd ml-pipeline-practice
-```
 
