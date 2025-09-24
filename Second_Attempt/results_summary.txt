@@ -1,0 +1,13 @@
+=== RESULTS ===
+Accuracy: 0.617 
+AUC: 0.632 
+Sensitivity: 0.606 
+Specificity: 0.63 
+Precision: 0.667 
+Features selected: 80 
+
+Confusion Matrix:
+         Actual
+Predicted Control Case
+  Control      17   10
+  Case         13   20
